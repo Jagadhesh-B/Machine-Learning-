@@ -1,2 +1,2 @@
 # Machine-Learning-
-This repository contains supervised and unsupervised machine learning models.
+This repository contains supervised and unsupervised projects done by using different machine learning models.
